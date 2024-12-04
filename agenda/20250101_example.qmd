@@ -1,0 +1,213 @@
+---
+title: "Teamoverleg BMK"
+date: 01/01/2025
+format:
+  html:
+    toc: true
+    html-math-method: katex
+  pdf:
+    fig-pos: 'H'
+knitr:
+  opts_chunk:
+    echo: true
+---
+
+
+![BMK logo](graphics/bmk_logo.svg)
+
+
+# Meta Information
+
+## Overzicht
+
+|                            | Agenda Teamoverleg BMK             |
+|----------------------------|------------------------------------|
+| Temporospatial Parameters: | 01-01-2025 / 9u30-12u30 / HT 01.00 |
+| Voorzitter:                | Janne                              |
+| Verslaggever:              | Raïsa/Emma/Robrecht?               |
+| Aanwezig:                  |                                    |
+|                            | Els Lommelen                       |
+|                            | Emma Cartuyvels                    |
+|                            | Falk Mielke                        |
+|                            | Floris Vanderhaeghe                |
+|                            | Hans Van Calster                   |
+|                            | Janne Adolf                        |
+|                            | Pieter Verschelde                  |
+|                            | Raïsa Carmen                       |
+|                            | Robrecht Dockx                     |
+|                            | Thierry Onkelinx                   |
+|                            | Toon Van Daele                     |
+|                            | Toon Westra                        |
+|                            | Ward Langeraert                    |
+| Verontschuldigd:           |                                    |
+|                            |                                    |
+: Meta-Info
+
+
+- Zie [@sec-sjablonen] voor voorbeeld-chunks.
+- [Quarto guide](https://quarto.org/docs/guide)
+
+
+# Checklists
+
+## Checklist taken van de **voorzitter** (afstrepen in agenda)
+- [ ] Controleren van het vorige verslag en noteren openstaande opmerkingen ter discussie in het nieuwe TO
+- [ ] Op de maandag voor het maandelijks TO reminder sturen dat iedereen:
+    - agendapunten aanvult tegen dinsdag 15u
+    - de projectopvolgingstabel up-to-date houdt
+- [ ] Zorgen dat het tabelletje met toekomstig overleg van de werkgroepen tijdig aangevuld wordt
+- [ ] Takenlijst nakijken en teamgenoten met openstaande taken aanmoedigen om deze (uit te voeren of) als agendapunt toe te voegen
+- [ ] [Projectopvolgingstabel](https://docs.google.com/spreadsheets/d/17DTi8fvbZ14-tUPtqvDanxq94OwLxgZBFH0_dND-WqI/edit?usp=drive_link) nakijken en teamgenoten aanmoedigen om planningsproblemen als agendapunt toe te voegen
+- [ ] Voor afkloppen van agenda checken of agendapunten doelgericht geschreven zijn (en ev. andere gebreken zoals naam vergeten) en betrokkenen hierop wijzen
+- [ ] Na TO opvolgen dat verslaggeving tijdig gebeurt (= na 2 werkdagen)
+
+
+## Checklist taken van de verslaggever (afstrepen in verslag):
+- [ ] Maak een kopie voor het verslag, zodat je er zelf eigenaar van bent
+- [ ] Taken aanvullen in takenlijst: deadline taken 1 week voor volgende maandelijks TO indien geen specifieke datum is vastgesteld tijdens het overleg
+- [ ] Verslag afronden 2 werkdagen na maandelijks TO
+- [ ] Opmerkingen inwerken in verslag, en onduidelijkheden/inconsistenties/discussies … toevoegen aan het eerste agendapunt van de volgende maand
+
+
+# Agenda Weekoverleg {#sec-agenda-wo} 
+
+## Overleg 19/12 (dringende punten die het team aanbelangen)
+::: {.callout-tip}
+**-- met motivatie voor de dringendheid, je naam en de timing --**
+*-- indien ná dinsdag 15:00: per mail aan voorzitter vragen --*
+:::
+
+
+# Agenda Teamoverleg 01/01 {#sec-agenda}
+## Agenda + opmerkingen vorig verslag (`0’, 10:00`)
+::: {.callout-tip}
+*Noteer hieronder alle openstaande opmerkingen ter discussie uit het vorige verslag. Vermeld ook indien er geen opmerkingen meer waren.*
+:::
+
+- 
+
+## Overlopen takenlijst (`0’, 10:00`)
+
+- Zie [takenlijst](https://mail.google.com/mail/u/0/#chat/space/AAAATtbFBO0)
+- Ter herinnering: als taken niet tijdig uitgevoerd kunnen worden, moet dit vooraf naar het team gecommuniceerd worden!
+- Deze lijst zal ook niet meer overlopen worden, dus als er knelpunten zijn bij de uitvoering van de taak, is het aan de verantwoordelijke om dit op de agenda te zetten.
+
+## Keuze onderwerp volgend praatje (`0’, 10:00`)
+
+- Zie [praatjeslijst](https://docs.google.com/spreadsheets/d/17DTi8fvbZ14-tUPtqvDanxq94OwLxgZBFH0_dND-WqI/edit#gid=1133500896)
+- Ter herinnering: aanvullen als je geen onderwerpen meer in de aanbieding hebt
+- Datum praatjes februari (Falk) en maart (Robrecht) vastleggen
+    - 13-02-2025?
+    - 13-03-2025?
+
+## Tour de table (`0’, 10:00`)
+
+We gebruiken een 2 minuten timer.
+
+Hoe gaat het met jou?
+
+Waar ben je mee bezig?
+
+Voorzie je planningsproblemen in de nabije toekomst (1-3 maanden)?
+
+
+## Samenwerking MT en WO (`0’, 10:00`)
+
+- Ter info / Ter discussie: ... (*wie*, `x'`)
+
+## Teamwerking (`0’, 10:00`)
+
+## Pauze (`0’, 10:00`)
+## Projecten (`0’, 10:00`)
+## Dienstverlening aan onderzoeksteams (`0’, 10:00`)
+## Klankbordgroepen en horizontale werkgroepen (`0’, 10:00`)
+::: {.callout-tip}
+ *Verslaggeving en vragen vanuit werkgroepen*
+:::
+
+## Agendapunten van BMK’ers voor **komend** werkgroepoverleg (`0’, 10:00`)
+::: {.callout-tip}
+*Iedereen bekijkt vooraf de agenda van ‘nakend’ overleg en kan hieronder bijkomende suggesties doen voor de werkgroepagenda’s.*
+:::
+
+Werkgroep: relevant voor BMK-doelstellingen
+Datum: eerstvolgend overleg
+Link naar de agenda van het overleg: evt. kopie zetten bij BMK ivm toegang, eigen draft of ander gemak
+
+| **Werkgroep**                             | **Datum**  | **Link agenda** |
+|-------------------------------------------|------------|-----------------|
+| Horizontale werkgroep Open Science Doelen | ?          | LINK            |
+| IT-werkgroep                              | 18/3/2025  | LINK            |
+| Stuurgroep BIB                            | ?          | LINK            |
+| Klankbordgroep communicatie               | ?          | LINK            |
+| Monitoring & RI                           | 21-01-2025 | LINK            |
+| Kennisdeling OSCIBIO-BMK-Databeheer       | 11-02-2025 | LINK            |
+
+: HWG-lijst
+
+
+
+## Netwerking, deelname congres, cursus, … (`0’, 10:00`)
+
+
+## Varia (`0’, 10:00`)
+
+
+
+# Draaimolen
+
+| **Voorzitter** | **Verslaggever** |
+|----------------|------------------|
+| Janne          | Raïsa            |
+| Raïsa          | Emma             |
+| Emma           | Robrecht         |
+| Robrecht       | Ward             |
+| Ward           | Els              |
+| Els            | Falk             |
+| Falk           | Thierry          |
+| Thierry        | Hans             |
+| Hans           | Toon VD          |
+| Toon VD        | Pieter           |
+| Pieter         | Floris           |
+| Floris         | Toon W           |
+| Toon W         | Janne            |
+
+: Meeting Roulette
+
+
+# Sjablonen {#sec-sjablonen}
+## Indeling teamoverleg 
+*Gelieve agendapunten via een van de volgende categorieën toe te voegen, om het teamoverleg zo efficiënt mogelijk te laten verlopen.*
+
+- Ter beslissing: … (naam, x’)
+  - Voorstel tot beslissing meegeven, of een lijst van mogelijke beslissingen
+  - Max. 5 min
+- Ter discussie: … (naam, x’)
+  - Duidelijk doel(vraag) aangeven
+- Ter info: … (naam, x’)
+  - Vergadertijd op 0 zetten indien volstaat om enkel te lezen
+  - Indien vergadertijd langer dan 0 min, moet er een duidelijk doel aangegeven worden
+  - Dit zijn de eerste agendapunten waarin de voorzitter zal schrappen bij tijdsgebrek
+
+
+*Horizontale Werking*
+
+- <werkgroepnaam>
+  - *Ter bespreking op TO:*
+  - *Ter informatie (geen bespreking nodig):*
+
+
+- <werkgroepnaam>
+  - **Punten aangebracht door BMK’ers en ter bespreking op TO** *(Iedereen kan aanvullen)*:
+  - **Andere punten van BMK’ers om mee te nemen** *(Iedereen kan aanvullen, maar geen bespreking op teamniveau nodig, evt. wel met BMK-aanspreekpunt)*:
+
+
+
+# TODO Draft
+
+- use a `navbar`?
+- assets? (graphics/images)
+- Rproj / RStudio integration
+- github workflow:
+  - to branch or not to branch
+  - how does commenting work in github?
